@@ -1,0 +1,1001 @@
+Date,Hour,Location,Vehicle_Count,Average_Speed_kmph,Congestion_Level
+2025-01-01,0,Trichy Main Road,152,63.9,Medium
+2025-01-01,1,Thirumayam Road,64,61.96,Low
+2025-01-01,2,Trichy Main Road,70,44.68,Low
+2025-01-01,3,Trichy Main Road,124,53.78,Low
+2025-01-01,4,Aranthangi Road,166,58.03,Medium
+2025-01-01,5,Gandhi Nagar,180,40.62,Medium
+2025-01-01,6,Gandhi Nagar,51,61.66,Low
+2025-01-01,7,Alangudi Road,87,40.02,Low
+2025-01-01,8,Karaikudi Road,476,32.35,High
+2025-01-01,9,Alangudi Road,221,20.14,Medium
+2025-01-01,10,Aranthangi Road,248,30.5,Medium
+2025-01-01,11,Alangudi Road,64,53.68,Low
+2025-01-01,12,Gandhi Nagar,100,51.47,Low
+2025-01-01,13,Gandhi Nagar,113,54.0,Low
+2025-01-01,14,Alangudi Road,100,60.41,Low
+2025-01-01,15,Thirumayam Road,122,41.95,Low
+2025-01-01,16,Trichy Main Road,181,68.27,Medium
+2025-01-01,17,Aranthangi Road,213,36.17,Medium
+2025-01-01,18,Trichy Main Road,464,20.32,High
+2025-01-01,19,Karaikudi Road,291,28.8,Medium
+2025-01-01,20,Trichy Main Road,463,20.69,High
+2025-01-01,21,Trichy Main Road,130,47.76,Low
+2025-01-01,22,Trichy Main Road,153,62.66,Medium
+2025-01-01,23,Alangudi Road,183,46.24,Medium
+2025-01-02,0,Alangudi Road,53,45.55,Low
+2025-01-02,1,Trichy Main Road,195,63.25,Medium
+2025-01-02,2,Aranthangi Road,63,61.82,Low
+2025-01-02,3,Karaikudi Road,64,42.65,Low
+2025-01-02,4,Gandhi Nagar,89,65.34,Low
+2025-01-02,5,Gandhi Nagar,131,56.19,Low
+2025-01-02,6,Trichy Main Road,73,50.7,Low
+2025-01-02,7,Gandhi Nagar,173,48.28,Medium
+2025-01-02,8,Gandhi Nagar,356,36.04,High
+2025-01-02,9,Aranthangi Road,264,20.31,Medium
+2025-01-02,10,Aranthangi Road,208,35.44,Medium
+2025-01-02,11,Aranthangi Road,185,40.17,Medium
+2025-01-02,12,Gandhi Nagar,188,45.97,Medium
+2025-01-02,13,Karaikudi Road,185,61.87,Medium
+2025-01-02,14,Alangudi Road,82,58.18,Low
+2025-01-02,15,Alangudi Road,90,67.45,Low
+2025-01-02,16,Trichy Main Road,121,53.48,Low
+2025-01-02,17,Gandhi Nagar,232,21.27,Medium
+2025-01-02,18,Alangudi Road,261,26.5,Medium
+2025-01-02,19,Thirumayam Road,298,31.83,Medium
+2025-01-02,20,Thirumayam Road,413,37.74,High
+2025-01-02,21,Gandhi Nagar,150,69.15,Low
+2025-01-02,22,Thirumayam Road,180,62.82,Medium
+2025-01-02,23,Aranthangi Road,191,54.81,Medium
+2025-01-03,0,Trichy Main Road,186,61.32,Medium
+2025-01-03,1,Alangudi Road,139,40.76,Low
+2025-01-03,2,Karaikudi Road,112,66.87,Low
+2025-01-03,3,Thirumayam Road,101,56.9,Low
+2025-01-03,4,Thirumayam Road,181,67.23,Medium
+2025-01-03,5,Gandhi Nagar,192,62.67,Medium
+2025-01-03,6,Karaikudi Road,85,68.29,Low
+2025-01-03,7,Gandhi Nagar,120,48.69,Low
+2025-01-03,8,Trichy Main Road,285,37.61,Medium
+2025-01-03,9,Thirumayam Road,369,36.16,High
+2025-01-03,10,Trichy Main Road,333,29.13,Medium
+2025-01-03,11,Aranthangi Road,157,45.6,Medium
+2025-01-03,12,Karaikudi Road,79,66.5,Low
+2025-01-03,13,Gandhi Nagar,177,64.22,Medium
+2025-01-03,14,Thirumayam Road,141,50.69,Low
+2025-01-03,15,Gandhi Nagar,178,46.84,Medium
+2025-01-03,16,Aranthangi Road,170,64.54,Medium
+2025-01-03,17,Thirumayam Road,432,26.1,High
+2025-01-03,18,Alangudi Road,397,30.21,High
+2025-01-03,19,Trichy Main Road,336,29.7,Medium
+2025-01-03,20,Trichy Main Road,424,22.4,High
+2025-01-03,21,Aranthangi Road,108,49.7,Low
+2025-01-03,22,Thirumayam Road,145,56.74,Low
+2025-01-03,23,Thirumayam Road,162,41.95,Medium
+2025-01-04,0,Trichy Main Road,101,47.41,Low
+2025-01-04,1,Karaikudi Road,88,54.92,Low
+2025-01-04,2,Alangudi Road,162,44.44,Medium
+2025-01-04,3,Gandhi Nagar,130,48.0,Low
+2025-01-04,4,Aranthangi Road,51,55.08,Low
+2025-01-04,5,Trichy Main Road,103,40.99,Low
+2025-01-04,6,Trichy Main Road,178,47.19,Medium
+2025-01-04,7,Thirumayam Road,179,55.93,Medium
+2025-01-04,8,Trichy Main Road,417,39.71,High
+2025-01-04,9,Thirumayam Road,446,33.44,High
+2025-01-04,10,Thirumayam Road,402,27.39,High
+2025-01-04,11,Aranthangi Road,194,61.85,Medium
+2025-01-04,12,Trichy Main Road,73,54.11,Low
+2025-01-04,13,Aranthangi Road,147,59.01,Low
+2025-01-04,14,Alangudi Road,188,64.49,Medium
+2025-01-04,15,Thirumayam Road,193,65.06,Medium
+2025-01-04,16,Alangudi Road,173,55.25,Medium
+2025-01-04,17,Trichy Main Road,458,31.82,High
+2025-01-04,18,Gandhi Nagar,346,26.97,Medium
+2025-01-04,19,Aranthangi Road,398,23.49,High
+2025-01-04,20,Alangudi Road,327,30.36,Medium
+2025-01-04,21,Trichy Main Road,153,44.13,Medium
+2025-01-04,22,Karaikudi Road,91,47.74,Low
+2025-01-04,23,Thirumayam Road,193,64.52,Medium
+2025-01-05,0,Alangudi Road,109,47.82,Low
+2025-01-05,1,Thirumayam Road,178,42.79,Medium
+2025-01-05,2,Aranthangi Road,189,56.75,Medium
+2025-01-05,3,Karaikudi Road,58,48.37,Low
+2025-01-05,4,Trichy Main Road,196,61.78,Medium
+2025-01-05,5,Aranthangi Road,180,65.69,Medium
+2025-01-05,6,Gandhi Nagar,103,63.4,Low
+2025-01-05,7,Alangudi Road,165,42.52,Medium
+2025-01-05,8,Aranthangi Road,303,32.13,Medium
+2025-01-05,9,Thirumayam Road,426,27.45,High
+2025-01-05,10,Thirumayam Road,298,39.47,Medium
+2025-01-05,11,Alangudi Road,195,44.82,Medium
+2025-01-05,12,Gandhi Nagar,131,54.57,Low
+2025-01-05,13,Karaikudi Road,117,47.12,Low
+2025-01-05,14,Karaikudi Road,70,45.36,Low
+2025-01-05,15,Trichy Main Road,177,62.33,Medium
+2025-01-05,16,Trichy Main Road,194,49.24,Medium
+2025-01-05,17,Gandhi Nagar,375,21.87,High
+2025-01-05,18,Thirumayam Road,221,24.88,Medium
+2025-01-05,19,Trichy Main Road,237,39.58,Medium
+2025-01-05,20,Aranthangi Road,250,37.84,Medium
+2025-01-05,21,Aranthangi Road,76,53.03,Low
+2025-01-05,22,Alangudi Road,70,55.08,Low
+2025-01-05,23,Aranthangi Road,77,60.07,Low
+2025-01-06,0,Trichy Main Road,110,54.98,Low
+2025-01-06,1,Karaikudi Road,53,40.73,Low
+2025-01-06,2,Gandhi Nagar,98,41.31,Low
+2025-01-06,3,Aranthangi Road,95,67.45,Low
+2025-01-06,4,Trichy Main Road,148,62.43,Low
+2025-01-06,5,Alangudi Road,86,67.85,Low
+2025-01-06,6,Gandhi Nagar,95,69.0,Low
+2025-01-06,7,Gandhi Nagar,148,69.41,Low
+2025-01-06,8,Trichy Main Road,315,25.89,Medium
+2025-01-06,9,Aranthangi Road,360,26.34,High
+2025-01-06,10,Alangudi Road,327,27.45,Medium
+2025-01-06,11,Alangudi Road,103,60.88,Low
+2025-01-06,12,Trichy Main Road,153,42.11,Medium
+2025-01-06,13,Thirumayam Road,163,58.45,Medium
+2025-01-06,14,Trichy Main Road,135,50.76,Low
+2025-01-06,15,Gandhi Nagar,176,55.55,Medium
+2025-01-06,16,Aranthangi Road,179,49.68,Medium
+2025-01-06,17,Thirumayam Road,303,33.94,Medium
+2025-01-06,18,Trichy Main Road,498,34.18,High
+2025-01-06,19,Alangudi Road,238,25.87,Medium
+2025-01-06,20,Karaikudi Road,446,28.4,High
+2025-01-06,21,Aranthangi Road,99,66.01,Low
+2025-01-06,22,Trichy Main Road,62,42.45,Low
+2025-01-06,23,Aranthangi Road,184,55.05,Medium
+2025-01-07,0,Karaikudi Road,69,59.5,Low
+2025-01-07,1,Thirumayam Road,193,41.52,Medium
+2025-01-07,2,Trichy Main Road,164,50.14,Medium
+2025-01-07,3,Gandhi Nagar,141,57.37,Low
+2025-01-07,4,Alangudi Road,81,57.35,Low
+2025-01-07,5,Gandhi Nagar,135,49.84,Low
+2025-01-07,6,Trichy Main Road,112,69.46,Low
+2025-01-07,7,Alangudi Road,199,57.72,Medium
+2025-01-07,8,Thirumayam Road,379,20.78,High
+2025-01-07,9,Thirumayam Road,470,27.2,High
+2025-01-07,10,Thirumayam Road,300,30.44,Medium
+2025-01-07,11,Thirumayam Road,102,48.15,Low
+2025-01-07,12,Trichy Main Road,157,58.69,Medium
+2025-01-07,13,Karaikudi Road,55,41.55,Low
+2025-01-07,14,Karaikudi Road,165,52.34,Medium
+2025-01-07,15,Karaikudi Road,148,59.12,Low
+2025-01-07,16,Gandhi Nagar,101,43.98,Low
+2025-01-07,17,Thirumayam Road,323,34.29,Medium
+2025-01-07,18,Gandhi Nagar,346,35.9,Medium
+2025-01-07,19,Trichy Main Road,474,28.78,High
+2025-01-07,20,Karaikudi Road,428,23.69,High
+2025-01-07,21,Alangudi Road,111,65.08,Low
+2025-01-07,22,Thirumayam Road,186,60.65,Medium
+2025-01-07,23,Alangudi Road,178,45.2,Medium
+2025-01-08,0,Alangudi Road,50,53.27,Low
+2025-01-08,1,Thirumayam Road,145,56.48,Low
+2025-01-08,2,Aranthangi Road,97,45.49,Low
+2025-01-08,3,Alangudi Road,166,59.15,Medium
+2025-01-08,4,Alangudi Road,118,58.35,Low
+2025-01-08,5,Gandhi Nagar,125,56.98,Low
+2025-01-08,6,Alangudi Road,135,40.43,Low
+2025-01-08,7,Trichy Main Road,118,42.82,Low
+2025-01-08,8,Karaikudi Road,293,37.11,Medium
+2025-01-08,9,Thirumayam Road,403,20.34,High
+2025-01-08,10,Trichy Main Road,238,26.93,Medium
+2025-01-08,11,Aranthangi Road,150,51.96,Low
+2025-01-08,12,Gandhi Nagar,59,68.47,Low
+2025-01-08,13,Gandhi Nagar,149,41.36,Low
+2025-01-08,14,Gandhi Nagar,187,58.78,Medium
+2025-01-08,15,Alangudi Road,145,65.69,Low
+2025-01-08,16,Trichy Main Road,118,60.52,Low
+2025-01-08,17,Alangudi Road,215,21.41,Medium
+2025-01-08,18,Alangudi Road,446,38.89,High
+2025-01-08,19,Aranthangi Road,359,38.8,High
+2025-01-08,20,Karaikudi Road,351,33.54,High
+2025-01-08,21,Trichy Main Road,173,43.86,Medium
+2025-01-08,22,Aranthangi Road,150,58.78,Low
+2025-01-08,23,Gandhi Nagar,114,68.84,Low
+2025-01-09,0,Gandhi Nagar,123,46.2,Low
+2025-01-09,1,Aranthangi Road,78,42.08,Low
+2025-01-09,2,Alangudi Road,144,51.32,Low
+2025-01-09,3,Gandhi Nagar,84,50.1,Low
+2025-01-09,4,Gandhi Nagar,139,49.57,Low
+2025-01-09,5,Trichy Main Road,139,50.22,Low
+2025-01-09,6,Aranthangi Road,164,48.46,Medium
+2025-01-09,7,Gandhi Nagar,107,60.9,Low
+2025-01-09,8,Thirumayam Road,274,37.55,Medium
+2025-01-09,9,Aranthangi Road,416,36.07,High
+2025-01-09,10,Karaikudi Road,448,30.96,High
+2025-01-09,11,Thirumayam Road,150,62.52,Low
+2025-01-09,12,Alangudi Road,148,52.38,Low
+2025-01-09,13,Alangudi Road,145,50.22,Low
+2025-01-09,14,Aranthangi Road,86,47.16,Low
+2025-01-09,15,Alangudi Road,62,62.2,Low
+2025-01-09,16,Thirumayam Road,148,43.09,Low
+2025-01-09,17,Karaikudi Road,472,30.69,High
+2025-01-09,18,Thirumayam Road,283,36.53,Medium
+2025-01-09,19,Karaikudi Road,386,22.0,High
+2025-01-09,20,Alangudi Road,299,20.22,Medium
+2025-01-09,21,Thirumayam Road,196,42.74,Medium
+2025-01-09,22,Gandhi Nagar,77,68.5,Low
+2025-01-09,23,Alangudi Road,177,54.48,Medium
+2025-01-10,0,Aranthangi Road,160,42.5,Medium
+2025-01-10,1,Alangudi Road,118,48.8,Low
+2025-01-10,2,Karaikudi Road,74,56.61,Low
+2025-01-10,3,Karaikudi Road,102,63.75,Low
+2025-01-10,4,Karaikudi Road,106,43.4,Low
+2025-01-10,5,Karaikudi Road,91,69.23,Low
+2025-01-10,6,Alangudi Road,191,56.49,Medium
+2025-01-10,7,Trichy Main Road,182,62.11,Medium
+2025-01-10,8,Trichy Main Road,420,27.02,High
+2025-01-10,9,Thirumayam Road,345,39.37,Medium
+2025-01-10,10,Karaikudi Road,208,35.23,Medium
+2025-01-10,11,Alangudi Road,194,43.03,Medium
+2025-01-10,12,Aranthangi Road,56,52.78,Low
+2025-01-10,13,Gandhi Nagar,186,64.66,Medium
+2025-01-10,14,Trichy Main Road,171,44.4,Medium
+2025-01-10,15,Karaikudi Road,78,42.55,Low
+2025-01-10,16,Karaikudi Road,132,57.44,Low
+2025-01-10,17,Thirumayam Road,344,38.94,Medium
+2025-01-10,18,Karaikudi Road,416,31.84,High
+2025-01-10,19,Karaikudi Road,491,27.53,High
+2025-01-10,20,Thirumayam Road,474,35.54,High
+2025-01-10,21,Aranthangi Road,140,47.46,Low
+2025-01-10,22,Alangudi Road,68,43.34,Low
+2025-01-10,23,Aranthangi Road,190,52.16,Medium
+2025-01-11,0,Thirumayam Road,175,41.69,Medium
+2025-01-11,1,Trichy Main Road,110,64.68,Low
+2025-01-11,2,Trichy Main Road,50,60.43,Low
+2025-01-11,3,Thirumayam Road,141,68.87,Low
+2025-01-11,4,Alangudi Road,162,42.49,Medium
+2025-01-11,5,Thirumayam Road,166,68.9,Medium
+2025-01-11,6,Aranthangi Road,93,69.34,Low
+2025-01-11,7,Trichy Main Road,110,49.68,Low
+2025-01-11,8,Trichy Main Road,279,30.55,Medium
+2025-01-11,9,Thirumayam Road,402,38.38,High
+2025-01-11,10,Karaikudi Road,363,31.08,High
+2025-01-11,11,Alangudi Road,69,42.26,Low
+2025-01-11,12,Gandhi Nagar,96,58.88,Low
+2025-01-11,13,Gandhi Nagar,63,48.83,Low
+2025-01-11,14,Thirumayam Road,50,58.83,Low
+2025-01-11,15,Thirumayam Road,167,51.53,Medium
+2025-01-11,16,Gandhi Nagar,61,68.76,Low
+2025-01-11,17,Aranthangi Road,471,37.81,High
+2025-01-11,18,Aranthangi Road,355,26.71,High
+2025-01-11,19,Thirumayam Road,321,23.76,Medium
+2025-01-11,20,Aranthangi Road,289,27.77,Medium
+2025-01-11,21,Aranthangi Road,109,57.51,Low
+2025-01-11,22,Trichy Main Road,150,69.23,Low
+2025-01-11,23,Gandhi Nagar,194,48.39,Medium
+2025-01-12,0,Thirumayam Road,190,67.33,Medium
+2025-01-12,1,Alangudi Road,183,68.49,Medium
+2025-01-12,2,Trichy Main Road,96,67.58,Low
+2025-01-12,3,Trichy Main Road,59,67.98,Low
+2025-01-12,4,Thirumayam Road,158,44.95,Medium
+2025-01-12,5,Thirumayam Road,82,63.33,Low
+2025-01-12,6,Gandhi Nagar,195,69.62,Medium
+2025-01-12,7,Thirumayam Road,60,57.82,Low
+2025-01-12,8,Thirumayam Road,262,27.86,Medium
+2025-01-12,9,Gandhi Nagar,482,31.38,High
+2025-01-12,10,Aranthangi Road,297,20.74,Medium
+2025-01-12,11,Alangudi Road,178,40.41,Medium
+2025-01-12,12,Aranthangi Road,104,65.94,Low
+2025-01-12,13,Aranthangi Road,144,62.5,Low
+2025-01-12,14,Thirumayam Road,52,56.66,Low
+2025-01-12,15,Trichy Main Road,102,68.34,Low
+2025-01-12,16,Trichy Main Road,132,47.42,Low
+2025-01-12,17,Alangudi Road,277,24.1,Medium
+2025-01-12,18,Trichy Main Road,200,39.08,Medium
+2025-01-12,19,Karaikudi Road,404,24.14,High
+2025-01-12,20,Gandhi Nagar,487,20.94,High
+2025-01-12,21,Alangudi Road,144,43.41,Low
+2025-01-12,22,Trichy Main Road,167,64.94,Medium
+2025-01-12,23,Aranthangi Road,99,65.57,Low
+2025-01-13,0,Aranthangi Road,103,69.04,Low
+2025-01-13,1,Alangudi Road,106,57.7,Low
+2025-01-13,2,Trichy Main Road,96,52.62,Low
+2025-01-13,3,Karaikudi Road,134,59.18,Low
+2025-01-13,4,Thirumayam Road,124,46.39,Low
+2025-01-13,5,Karaikudi Road,87,58.24,Low
+2025-01-13,6,Gandhi Nagar,131,51.77,Low
+2025-01-13,7,Aranthangi Road,140,42.73,Low
+2025-01-13,8,Gandhi Nagar,448,30.28,High
+2025-01-13,9,Gandhi Nagar,229,32.44,Medium
+2025-01-13,10,Alangudi Road,250,33.95,Medium
+2025-01-13,11,Aranthangi Road,78,44.41,Low
+2025-01-13,12,Trichy Main Road,194,54.76,Medium
+2025-01-13,13,Alangudi Road,133,53.77,Low
+2025-01-13,14,Karaikudi Road,83,58.62,Low
+2025-01-13,15,Gandhi Nagar,175,59.0,Medium
+2025-01-13,16,Trichy Main Road,164,56.12,Medium
+2025-01-13,17,Alangudi Road,350,22.56,Medium
+2025-01-13,18,Thirumayam Road,294,28.01,Medium
+2025-01-13,19,Karaikudi Road,207,23.6,Medium
+2025-01-13,20,Gandhi Nagar,383,28.23,High
+2025-01-13,21,Trichy Main Road,145,54.22,Low
+2025-01-13,22,Thirumayam Road,142,69.19,Low
+2025-01-13,23,Alangudi Road,110,45.77,Low
+2025-01-14,0,Alangudi Road,196,64.65,Medium
+2025-01-14,1,Trichy Main Road,141,50.43,Low
+2025-01-14,2,Trichy Main Road,71,42.66,Low
+2025-01-14,3,Thirumayam Road,50,56.03,Low
+2025-01-14,4,Thirumayam Road,61,46.19,Low
+2025-01-14,5,Thirumayam Road,83,43.86,Low
+2025-01-14,6,Karaikudi Road,94,49.65,Low
+2025-01-14,7,Gandhi Nagar,75,63.98,Low
+2025-01-14,8,Aranthangi Road,320,33.76,Medium
+2025-01-14,9,Gandhi Nagar,255,37.47,Medium
+2025-01-14,10,Thirumayam Road,247,21.22,Medium
+2025-01-14,11,Gandhi Nagar,75,66.05,Low
+2025-01-14,12,Aranthangi Road,57,62.45,Low
+2025-01-14,13,Trichy Main Road,96,51.11,Low
+2025-01-14,14,Alangudi Road,63,58.55,Low
+2025-01-14,15,Trichy Main Road,127,53.88,Low
+2025-01-14,16,Aranthangi Road,158,41.87,Medium
+2025-01-14,17,Trichy Main Road,386,25.05,High
+2025-01-14,18,Gandhi Nagar,206,33.74,Medium
+2025-01-14,19,Thirumayam Road,437,34.99,High
+2025-01-14,20,Thirumayam Road,473,28.95,High
+2025-01-14,21,Thirumayam Road,164,47.27,Medium
+2025-01-14,22,Trichy Main Road,168,51.32,Medium
+2025-01-14,23,Gandhi Nagar,88,49.66,Low
+2025-01-15,0,Aranthangi Road,135,49.82,Low
+2025-01-15,1,Aranthangi Road,93,47.0,Low
+2025-01-15,2,Karaikudi Road,62,57.81,Low
+2025-01-15,3,Trichy Main Road,117,50.65,Low
+2025-01-15,4,Gandhi Nagar,158,54.39,Medium
+2025-01-15,5,Thirumayam Road,160,62.1,Medium
+2025-01-15,6,Gandhi Nagar,160,62.36,Medium
+2025-01-15,7,Karaikudi Road,162,56.93,Medium
+2025-01-15,8,Trichy Main Road,241,25.68,Medium
+2025-01-15,9,Aranthangi Road,205,37.99,Medium
+2025-01-15,10,Thirumayam Road,425,24.89,High
+2025-01-15,11,Gandhi Nagar,108,69.6,Low
+2025-01-15,12,Alangudi Road,170,47.12,Medium
+2025-01-15,13,Gandhi Nagar,199,46.76,Medium
+2025-01-15,14,Karaikudi Road,119,47.38,Low
+2025-01-15,15,Alangudi Road,53,65.52,Low
+2025-01-15,16,Alangudi Road,111,64.18,Low
+2025-01-15,17,Trichy Main Road,351,37.94,High
+2025-01-15,18,Trichy Main Road,446,21.03,High
+2025-01-15,19,Aranthangi Road,230,28.21,Medium
+2025-01-15,20,Gandhi Nagar,235,39.95,Medium
+2025-01-15,21,Alangudi Road,55,51.94,Low
+2025-01-15,22,Thirumayam Road,124,65.97,Low
+2025-01-15,23,Alangudi Road,183,69.25,Medium
+2025-01-16,0,Alangudi Road,143,45.13,Low
+2025-01-16,1,Thirumayam Road,111,67.88,Low
+2025-01-16,2,Alangudi Road,128,56.05,Low
+2025-01-16,3,Karaikudi Road,75,48.4,Low
+2025-01-16,4,Alangudi Road,93,46.15,Low
+2025-01-16,5,Thirumayam Road,167,61.33,Medium
+2025-01-16,6,Karaikudi Road,69,47.27,Low
+2025-01-16,7,Aranthangi Road,96,61.22,Low
+2025-01-16,8,Gandhi Nagar,341,25.77,Medium
+2025-01-16,9,Thirumayam Road,492,30.12,High
+2025-01-16,10,Karaikudi Road,458,21.04,High
+2025-01-16,11,Trichy Main Road,59,56.46,Low
+2025-01-16,12,Aranthangi Road,187,69.7,Medium
+2025-01-16,13,Aranthangi Road,62,60.54,Low
+2025-01-16,14,Karaikudi Road,133,47.64,Low
+2025-01-16,15,Trichy Main Road,150,40.08,Low
+2025-01-16,16,Trichy Main Road,58,57.87,Low
+2025-01-16,17,Aranthangi Road,237,28.24,Medium
+2025-01-16,18,Aranthangi Road,293,22.13,Medium
+2025-01-16,19,Alangudi Road,268,36.61,Medium
+2025-01-16,20,Gandhi Nagar,435,28.17,High
+2025-01-16,21,Trichy Main Road,166,61.93,Medium
+2025-01-16,22,Thirumayam Road,186,46.15,Medium
+2025-01-16,23,Karaikudi Road,84,67.79,Low
+2025-01-17,0,Aranthangi Road,113,57.23,Low
+2025-01-17,1,Karaikudi Road,113,63.45,Low
+2025-01-17,2,Thirumayam Road,60,63.86,Low
+2025-01-17,3,Aranthangi Road,63,63.99,Low
+2025-01-17,4,Gandhi Nagar,84,44.93,Low
+2025-01-17,5,Alangudi Road,54,47.07,Low
+2025-01-17,6,Thirumayam Road,127,55.69,Low
+2025-01-17,7,Thirumayam Road,181,49.49,Medium
+2025-01-17,8,Alangudi Road,241,27.85,Medium
+2025-01-17,9,Aranthangi Road,495,29.04,High
+2025-01-17,10,Aranthangi Road,303,27.54,Medium
+2025-01-17,11,Trichy Main Road,174,49.04,Medium
+2025-01-17,12,Karaikudi Road,72,53.16,Low
+2025-01-17,13,Gandhi Nagar,194,66.99,Medium
+2025-01-17,14,Karaikudi Road,102,67.19,Low
+2025-01-17,15,Aranthangi Road,88,43.51,Low
+2025-01-17,16,Aranthangi Road,183,49.98,Medium
+2025-01-17,17,Alangudi Road,378,26.7,High
+2025-01-17,18,Aranthangi Road,214,37.57,Medium
+2025-01-17,19,Aranthangi Road,488,30.67,High
+2025-01-17,20,Thirumayam Road,430,31.46,High
+2025-01-17,21,Alangudi Road,87,62.57,Low
+2025-01-17,22,Gandhi Nagar,82,41.01,Low
+2025-01-17,23,Gandhi Nagar,135,61.42,Low
+2025-01-18,0,Thirumayam Road,54,66.3,Low
+2025-01-18,1,Thirumayam Road,146,43.09,Low
+2025-01-18,2,Gandhi Nagar,190,43.32,Medium
+2025-01-18,3,Trichy Main Road,158,43.82,Medium
+2025-01-18,4,Trichy Main Road,64,63.92,Low
+2025-01-18,5,Aranthangi Road,54,54.59,Low
+2025-01-18,6,Alangudi Road,117,61.67,Low
+2025-01-18,7,Trichy Main Road,179,40.37,Medium
+2025-01-18,8,Aranthangi Road,314,33.88,Medium
+2025-01-18,9,Trichy Main Road,491,34.32,High
+2025-01-18,10,Gandhi Nagar,482,26.91,High
+2025-01-18,11,Aranthangi Road,60,68.77,Low
+2025-01-18,12,Trichy Main Road,153,57.5,Medium
+2025-01-18,13,Karaikudi Road,72,53.86,Low
+2025-01-18,14,Trichy Main Road,95,58.45,Low
+2025-01-18,15,Aranthangi Road,190,44.17,Medium
+2025-01-18,16,Karaikudi Road,160,61.78,Medium
+2025-01-18,17,Aranthangi Road,370,38.64,High
+2025-01-18,18,Alangudi Road,332,38.45,Medium
+2025-01-18,19,Trichy Main Road,326,23.05,Medium
+2025-01-18,20,Karaikudi Road,291,27.49,Medium
+2025-01-18,21,Karaikudi Road,186,52.72,Medium
+2025-01-18,22,Gandhi Nagar,78,43.13,Low
+2025-01-18,23,Aranthangi Road,90,67.77,Low
+2025-01-19,0,Gandhi Nagar,50,43.4,Low
+2025-01-19,1,Trichy Main Road,198,44.97,Medium
+2025-01-19,2,Trichy Main Road,106,49.96,Low
+2025-01-19,3,Aranthangi Road,104,46.82,Low
+2025-01-19,4,Gandhi Nagar,192,51.97,Medium
+2025-01-19,5,Gandhi Nagar,102,50.06,Low
+2025-01-19,6,Trichy Main Road,106,40.14,Low
+2025-01-19,7,Thirumayam Road,84,51.95,Low
+2025-01-19,8,Karaikudi Road,224,37.27,Medium
+2025-01-19,9,Gandhi Nagar,493,26.93,High
+2025-01-19,10,Trichy Main Road,409,29.62,High
+2025-01-19,11,Gandhi Nagar,140,53.57,Low
+2025-01-19,12,Karaikudi Road,157,67.38,Medium
+2025-01-19,13,Karaikudi Road,74,54.95,Low
+2025-01-19,14,Trichy Main Road,137,49.34,Low
+2025-01-19,15,Karaikudi Road,78,57.42,Low
+2025-01-19,16,Trichy Main Road,199,46.6,Medium
+2025-01-19,17,Trichy Main Road,248,23.56,Medium
+2025-01-19,18,Karaikudi Road,283,29.18,Medium
+2025-01-19,19,Karaikudi Road,347,28.29,Medium
+2025-01-19,20,Alangudi Road,262,39.94,Medium
+2025-01-19,21,Karaikudi Road,98,48.99,Low
+2025-01-19,22,Gandhi Nagar,190,51.92,Medium
+2025-01-19,23,Alangudi Road,172,63.99,Medium
+2025-01-20,0,Gandhi Nagar,111,46.15,Low
+2025-01-20,1,Aranthangi Road,78,58.75,Low
+2025-01-20,2,Trichy Main Road,79,65.1,Low
+2025-01-20,3,Alangudi Road,68,41.97,Low
+2025-01-20,4,Alangudi Road,127,61.42,Low
+2025-01-20,5,Gandhi Nagar,162,52.02,Medium
+2025-01-20,6,Trichy Main Road,112,43.09,Low
+2025-01-20,7,Alangudi Road,57,65.85,Low
+2025-01-20,8,Alangudi Road,330,27.47,Medium
+2025-01-20,9,Aranthangi Road,361,28.17,High
+2025-01-20,10,Thirumayam Road,286,39.58,Medium
+2025-01-20,11,Aranthangi Road,81,61.48,Low
+2025-01-20,12,Aranthangi Road,142,52.24,Low
+2025-01-20,13,Karaikudi Road,106,46.66,Low
+2025-01-20,14,Gandhi Nagar,121,43.12,Low
+2025-01-20,15,Trichy Main Road,116,66.62,Low
+2025-01-20,16,Karaikudi Road,141,47.15,Low
+2025-01-20,17,Gandhi Nagar,490,24.86,High
+2025-01-20,18,Gandhi Nagar,277,32.06,Medium
+2025-01-20,19,Aranthangi Road,364,22.82,High
+2025-01-20,20,Gandhi Nagar,422,26.48,High
+2025-01-20,21,Aranthangi Road,56,59.0,Low
+2025-01-20,22,Gandhi Nagar,134,40.8,Low
+2025-01-20,23,Trichy Main Road,174,66.29,Medium
+2025-01-21,0,Karaikudi Road,78,52.64,Low
+2025-01-21,1,Aranthangi Road,51,67.32,Low
+2025-01-21,2,Gandhi Nagar,197,50.08,Medium
+2025-01-21,3,Gandhi Nagar,179,50.89,Medium
+2025-01-21,4,Gandhi Nagar,168,48.04,Medium
+2025-01-21,5,Trichy Main Road,54,50.36,Low
+2025-01-21,6,Aranthangi Road,186,53.08,Medium
+2025-01-21,7,Thirumayam Road,148,68.45,Low
+2025-01-21,8,Aranthangi Road,479,22.28,High
+2025-01-21,9,Trichy Main Road,357,29.75,High
+2025-01-21,10,Gandhi Nagar,414,36.0,High
+2025-01-21,11,Karaikudi Road,163,40.67,Medium
+2025-01-21,12,Aranthangi Road,63,62.25,Low
+2025-01-21,13,Thirumayam Road,74,47.74,Low
+2025-01-21,14,Trichy Main Road,71,65.05,Low
+2025-01-21,15,Thirumayam Road,53,43.97,Low
+2025-01-21,16,Alangudi Road,78,45.15,Low
+2025-01-21,17,Aranthangi Road,414,33.66,High
+2025-01-21,18,Alangudi Road,345,30.59,Medium
+2025-01-21,19,Trichy Main Road,241,31.53,Medium
+2025-01-21,20,Alangudi Road,233,31.08,Medium
+2025-01-21,21,Alangudi Road,171,61.61,Medium
+2025-01-21,22,Gandhi Nagar,166,40.33,Medium
+2025-01-21,23,Aranthangi Road,76,67.0,Low
+2025-01-22,0,Thirumayam Road,183,61.97,Medium
+2025-01-22,1,Alangudi Road,147,58.02,Low
+2025-01-22,2,Alangudi Road,102,45.26,Low
+2025-01-22,3,Alangudi Road,194,52.56,Medium
+2025-01-22,4,Trichy Main Road,171,52.66,Medium
+2025-01-22,5,Aranthangi Road,179,44.99,Medium
+2025-01-22,6,Aranthangi Road,156,45.53,Medium
+2025-01-22,7,Thirumayam Road,85,63.13,Low
+2025-01-22,8,Karaikudi Road,228,27.79,Medium
+2025-01-22,9,Thirumayam Road,495,28.74,High
+2025-01-22,10,Gandhi Nagar,363,34.38,High
+2025-01-22,11,Thirumayam Road,88,58.31,Low
+2025-01-22,12,Thirumayam Road,103,54.28,Low
+2025-01-22,13,Trichy Main Road,160,68.62,Medium
+2025-01-22,14,Trichy Main Road,199,61.98,Medium
+2025-01-22,15,Alangudi Road,82,48.1,Low
+2025-01-22,16,Karaikudi Road,197,44.86,Medium
+2025-01-22,17,Gandhi Nagar,443,21.03,High
+2025-01-22,18,Aranthangi Road,400,35.42,High
+2025-01-22,19,Karaikudi Road,272,21.5,Medium
+2025-01-22,20,Gandhi Nagar,216,28.26,Medium
+2025-01-22,21,Alangudi Road,110,60.65,Low
+2025-01-22,22,Alangudi Road,91,53.79,Low
+2025-01-22,23,Thirumayam Road,84,64.57,Low
+2025-01-23,0,Aranthangi Road,157,60.84,Medium
+2025-01-23,1,Trichy Main Road,151,57.71,Medium
+2025-01-23,2,Thirumayam Road,68,49.44,Low
+2025-01-23,3,Alangudi Road,98,44.1,Low
+2025-01-23,4,Karaikudi Road,123,60.72,Low
+2025-01-23,5,Thirumayam Road,96,42.6,Low
+2025-01-23,6,Gandhi Nagar,129,66.19,Low
+2025-01-23,7,Alangudi Road,57,59.17,Low
+2025-01-23,8,Alangudi Road,280,33.18,Medium
+2025-01-23,9,Trichy Main Road,397,39.61,High
+2025-01-23,10,Gandhi Nagar,288,32.93,Medium
+2025-01-23,11,Gandhi Nagar,108,69.63,Low
+2025-01-23,12,Karaikudi Road,158,60.1,Medium
+2025-01-23,13,Alangudi Road,81,61.17,Low
+2025-01-23,14,Aranthangi Road,194,45.42,Medium
+2025-01-23,15,Karaikudi Road,135,67.46,Low
+2025-01-23,16,Thirumayam Road,63,43.62,Low
+2025-01-23,17,Thirumayam Road,206,25.95,Medium
+2025-01-23,18,Aranthangi Road,375,22.31,High
+2025-01-23,19,Karaikudi Road,414,35.91,High
+2025-01-23,20,Gandhi Nagar,422,37.24,High
+2025-01-23,21,Karaikudi Road,195,55.67,Medium
+2025-01-23,22,Trichy Main Road,152,41.11,Medium
+2025-01-23,23,Aranthangi Road,157,43.62,Medium
+2025-01-24,0,Alangudi Road,147,66.55,Low
+2025-01-24,1,Thirumayam Road,157,57.17,Medium
+2025-01-24,2,Karaikudi Road,169,56.18,Medium
+2025-01-24,3,Trichy Main Road,142,59.85,Low
+2025-01-24,4,Trichy Main Road,190,58.78,Medium
+2025-01-24,5,Thirumayam Road,65,52.8,Low
+2025-01-24,6,Aranthangi Road,157,46.99,Medium
+2025-01-24,7,Gandhi Nagar,104,53.86,Low
+2025-01-24,8,Trichy Main Road,233,20.43,Medium
+2025-01-24,9,Aranthangi Road,446,23.71,High
+2025-01-24,10,Aranthangi Road,473,38.78,High
+2025-01-24,11,Alangudi Road,172,69.94,Medium
+2025-01-24,12,Trichy Main Road,78,63.02,Low
+2025-01-24,13,Karaikudi Road,111,54.4,Low
+2025-01-24,14,Aranthangi Road,65,66.21,Low
+2025-01-24,15,Alangudi Road,170,63.05,Medium
+2025-01-24,16,Trichy Main Road,152,55.68,Medium
+2025-01-24,17,Trichy Main Road,264,24.78,Medium
+2025-01-24,18,Aranthangi Road,202,29.35,Medium
+2025-01-24,19,Trichy Main Road,357,37.06,High
+2025-01-24,20,Gandhi Nagar,345,24.67,Medium
+2025-01-24,21,Karaikudi Road,122,43.28,Low
+2025-01-24,22,Gandhi Nagar,170,60.39,Medium
+2025-01-24,23,Alangudi Road,189,68.69,Medium
+2025-01-25,0,Gandhi Nagar,86,63.59,Low
+2025-01-25,1,Thirumayam Road,173,52.53,Medium
+2025-01-25,2,Trichy Main Road,112,68.34,Low
+2025-01-25,3,Aranthangi Road,60,67.11,Low
+2025-01-25,4,Trichy Main Road,101,41.95,Low
+2025-01-25,5,Aranthangi Road,121,68.28,Low
+2025-01-25,6,Karaikudi Road,112,46.92,Low
+2025-01-25,7,Alangudi Road,159,46.92,Medium
+2025-01-25,8,Gandhi Nagar,425,27.68,High
+2025-01-25,9,Gandhi Nagar,440,39.15,High
+2025-01-25,10,Alangudi Road,461,36.02,High
+2025-01-25,11,Alangudi Road,103,69.07,Low
+2025-01-25,12,Gandhi Nagar,58,67.83,Low
+2025-01-25,13,Alangudi Road,171,55.75,Medium
+2025-01-25,14,Thirumayam Road,172,51.89,Medium
+2025-01-25,15,Karaikudi Road,131,60.88,Low
+2025-01-25,16,Aranthangi Road,52,64.47,Low
+2025-01-25,17,Karaikudi Road,468,24.48,High
+2025-01-25,18,Gandhi Nagar,288,31.86,Medium
+2025-01-25,19,Alangudi Road,297,29.15,Medium
+2025-01-25,20,Gandhi Nagar,322,22.59,Medium
+2025-01-25,21,Alangudi Road,186,41.33,Medium
+2025-01-25,22,Thirumayam Road,125,41.06,Low
+2025-01-25,23,Aranthangi Road,89,67.95,Low
+2025-01-26,0,Alangudi Road,188,42.61,Medium
+2025-01-26,1,Gandhi Nagar,173,51.18,Medium
+2025-01-26,2,Alangudi Road,121,60.87,Low
+2025-01-26,3,Karaikudi Road,139,55.98,Low
+2025-01-26,4,Aranthangi Road,86,46.61,Low
+2025-01-26,5,Aranthangi Road,77,42.28,Low
+2025-01-26,6,Thirumayam Road,130,41.85,Low
+2025-01-26,7,Karaikudi Road,94,54.42,Low
+2025-01-26,8,Thirumayam Road,314,36.49,Medium
+2025-01-26,9,Gandhi Nagar,255,33.24,Medium
+2025-01-26,10,Aranthangi Road,239,31.31,Medium
+2025-01-26,11,Karaikudi Road,82,66.36,Low
+2025-01-26,12,Gandhi Nagar,196,66.04,Medium
+2025-01-26,13,Thirumayam Road,141,65.52,Low
+2025-01-26,14,Thirumayam Road,108,44.81,Low
+2025-01-26,15,Thirumayam Road,62,65.11,Low
+2025-01-26,16,Aranthangi Road,138,67.9,Low
+2025-01-26,17,Aranthangi Road,390,33.98,High
+2025-01-26,18,Trichy Main Road,387,23.17,High
+2025-01-26,19,Gandhi Nagar,434,39.23,High
+2025-01-26,20,Aranthangi Road,448,20.58,High
+2025-01-26,21,Karaikudi Road,72,40.15,Low
+2025-01-26,22,Aranthangi Road,156,46.86,Medium
+2025-01-26,23,Karaikudi Road,88,44.82,Low
+2025-01-27,0,Alangudi Road,149,56.69,Low
+2025-01-27,1,Trichy Main Road,126,55.22,Low
+2025-01-27,2,Karaikudi Road,88,45.79,Low
+2025-01-27,3,Karaikudi Road,62,58.51,Low
+2025-01-27,4,Gandhi Nagar,162,56.8,Medium
+2025-01-27,5,Alangudi Road,153,47.79,Medium
+2025-01-27,6,Karaikudi Road,137,64.56,Low
+2025-01-27,7,Karaikudi Road,119,48.5,Low
+2025-01-27,8,Gandhi Nagar,273,28.64,Medium
+2025-01-27,9,Alangudi Road,259,23.59,Medium
+2025-01-27,10,Aranthangi Road,236,22.05,Medium
+2025-01-27,11,Trichy Main Road,197,60.64,Medium
+2025-01-27,12,Thirumayam Road,117,49.03,Low
+2025-01-27,13,Gandhi Nagar,66,63.13,Low
+2025-01-27,14,Karaikudi Road,194,57.47,Medium
+2025-01-27,15,Karaikudi Road,71,58.63,Low
+2025-01-27,16,Trichy Main Road,99,69.7,Low
+2025-01-27,17,Gandhi Nagar,374,39.38,High
+2025-01-27,18,Gandhi Nagar,363,32.95,High
+2025-01-27,19,Thirumayam Road,206,21.31,Medium
+2025-01-27,20,Alangudi Road,232,26.47,Medium
+2025-01-27,21,Karaikudi Road,128,64.56,Low
+2025-01-27,22,Karaikudi Road,107,40.03,Low
+2025-01-27,23,Aranthangi Road,78,68.33,Low
+2025-01-28,0,Alangudi Road,148,53.54,Low
+2025-01-28,1,Alangudi Road,88,55.81,Low
+2025-01-28,2,Trichy Main Road,78,60.81,Low
+2025-01-28,3,Karaikudi Road,165,65.2,Medium
+2025-01-28,4,Karaikudi Road,133,59.64,Low
+2025-01-28,5,Karaikudi Road,76,66.04,Low
+2025-01-28,6,Thirumayam Road,175,44.53,Medium
+2025-01-28,7,Karaikudi Road,141,61.94,Low
+2025-01-28,8,Gandhi Nagar,283,27.95,Medium
+2025-01-28,9,Trichy Main Road,456,26.41,High
+2025-01-28,10,Aranthangi Road,214,34.92,Medium
+2025-01-28,11,Trichy Main Road,113,66.04,Low
+2025-01-28,12,Thirumayam Road,73,51.06,Low
+2025-01-28,13,Alangudi Road,64,54.15,Low
+2025-01-28,14,Karaikudi Road,76,69.05,Low
+2025-01-28,15,Alangudi Road,194,42.73,Medium
+2025-01-28,16,Thirumayam Road,57,63.13,Low
+2025-01-28,17,Trichy Main Road,373,30.61,High
+2025-01-28,18,Karaikudi Road,398,32.52,High
+2025-01-28,19,Aranthangi Road,380,38.24,High
+2025-01-28,20,Gandhi Nagar,245,29.24,Medium
+2025-01-28,21,Karaikudi Road,66,58.22,Low
+2025-01-28,22,Trichy Main Road,133,52.91,Low
+2025-01-28,23,Alangudi Road,112,59.55,Low
+2025-01-29,0,Aranthangi Road,166,57.71,Medium
+2025-01-29,1,Karaikudi Road,121,49.31,Low
+2025-01-29,2,Alangudi Road,121,53.94,Low
+2025-01-29,3,Aranthangi Road,113,51.87,Low
+2025-01-29,4,Trichy Main Road,144,61.66,Low
+2025-01-29,5,Karaikudi Road,60,60.85,Low
+2025-01-29,6,Trichy Main Road,82,68.58,Low
+2025-01-29,7,Thirumayam Road,185,61.73,Medium
+2025-01-29,8,Karaikudi Road,378,22.1,High
+2025-01-29,9,Aranthangi Road,275,39.73,Medium
+2025-01-29,10,Alangudi Road,359,20.37,High
+2025-01-29,11,Trichy Main Road,103,58.54,Low
+2025-01-29,12,Gandhi Nagar,197,50.38,Medium
+2025-01-29,13,Trichy Main Road,146,55.53,Low
+2025-01-29,14,Thirumayam Road,82,66.48,Low
+2025-01-29,15,Thirumayam Road,126,42.36,Low
+2025-01-29,16,Trichy Main Road,199,49.66,Medium
+2025-01-29,17,Alangudi Road,365,31.35,High
+2025-01-29,18,Alangudi Road,373,33.86,High
+2025-01-29,19,Karaikudi Road,342,24.0,Medium
+2025-01-29,20,Thirumayam Road,322,20.63,Medium
+2025-01-29,21,Thirumayam Road,55,58.5,Low
+2025-01-29,22,Alangudi Road,90,61.27,Low
+2025-01-29,23,Thirumayam Road,57,68.42,Low
+2025-01-30,0,Karaikudi Road,141,64.05,Low
+2025-01-30,1,Alangudi Road,111,58.37,Low
+2025-01-30,2,Thirumayam Road,176,42.4,Medium
+2025-01-30,3,Aranthangi Road,133,56.59,Low
+2025-01-30,4,Aranthangi Road,183,64.52,Medium
+2025-01-30,5,Karaikudi Road,176,59.31,Medium
+2025-01-30,6,Gandhi Nagar,90,44.92,Low
+2025-01-30,7,Trichy Main Road,63,42.45,Low
+2025-01-30,8,Trichy Main Road,211,24.94,Medium
+2025-01-30,9,Thirumayam Road,224,37.44,Medium
+2025-01-30,10,Trichy Main Road,321,26.58,Medium
+2025-01-30,11,Trichy Main Road,149,62.33,Low
+2025-01-30,12,Thirumayam Road,168,53.01,Medium
+2025-01-30,13,Thirumayam Road,81,54.95,Low
+2025-01-30,14,Gandhi Nagar,131,40.63,Low
+2025-01-30,15,Trichy Main Road,199,49.97,Medium
+2025-01-30,16,Alangudi Road,105,69.24,Low
+2025-01-30,17,Thirumayam Road,330,21.63,Medium
+2025-01-30,18,Alangudi Road,442,33.6,High
+2025-01-30,19,Aranthangi Road,292,28.37,Medium
+2025-01-30,20,Aranthangi Road,406,25.15,High
+2025-01-30,21,Karaikudi Road,125,45.23,Low
+2025-01-30,22,Trichy Main Road,73,52.76,Low
+2025-01-30,23,Trichy Main Road,53,62.06,Low
+2025-01-31,0,Thirumayam Road,175,69.63,Medium
+2025-01-31,1,Alangudi Road,99,66.01,Low
+2025-01-31,2,Alangudi Road,145,57.64,Low
+2025-01-31,3,Thirumayam Road,166,51.87,Medium
+2025-01-31,4,Gandhi Nagar,115,57.93,Low
+2025-01-31,5,Thirumayam Road,55,59.65,Low
+2025-01-31,6,Trichy Main Road,164,48.52,Medium
+2025-01-31,7,Thirumayam Road,174,46.32,Medium
+2025-01-31,8,Thirumayam Road,436,29.32,High
+2025-01-31,9,Karaikudi Road,220,34.66,Medium
+2025-01-31,10,Aranthangi Road,481,34.32,High
+2025-01-31,11,Thirumayam Road,136,58.98,Low
+2025-01-31,12,Alangudi Road,63,69.14,Low
+2025-01-31,13,Karaikudi Road,168,52.39,Medium
+2025-01-31,14,Alangudi Road,90,47.42,Low
+2025-01-31,15,Karaikudi Road,109,52.15,Low
+2025-01-31,16,Aranthangi Road,63,55.44,Low
+2025-01-31,17,Thirumayam Road,283,31.86,Medium
+2025-01-31,18,Gandhi Nagar,344,27.82,Medium
+2025-01-31,19,Gandhi Nagar,227,25.16,Medium
+2025-01-31,20,Aranthangi Road,428,20.18,High
+2025-01-31,21,Thirumayam Road,94,47.11,Low
+2025-01-31,22,Alangudi Road,80,47.08,Low
+2025-01-31,23,Thirumayam Road,167,45.09,Medium
+2025-02-01,0,Karaikudi Road,142,50.11,Low
+2025-02-01,1,Trichy Main Road,143,44.37,Low
+2025-02-01,2,Karaikudi Road,182,47.46,Medium
+2025-02-01,3,Trichy Main Road,50,47.58,Low
+2025-02-01,4,Trichy Main Road,167,45.03,Medium
+2025-02-01,5,Aranthangi Road,170,58.17,Medium
+2025-02-01,6,Thirumayam Road,98,65.33,Low
+2025-02-01,7,Thirumayam Road,93,53.39,Low
+2025-02-01,8,Gandhi Nagar,406,31.16,High
+2025-02-01,9,Thirumayam Road,450,22.24,High
+2025-02-01,10,Alangudi Road,329,22.46,Medium
+2025-02-01,11,Karaikudi Road,86,68.1,Low
+2025-02-01,12,Trichy Main Road,78,59.2,Low
+2025-02-01,13,Thirumayam Road,84,53.57,Low
+2025-02-01,14,Trichy Main Road,108,49.48,Low
+2025-02-01,15,Alangudi Road,61,44.45,Low
+2025-02-01,16,Alangudi Road,92,40.52,Low
+2025-02-01,17,Gandhi Nagar,416,32.78,High
+2025-02-01,18,Trichy Main Road,384,31.6,High
+2025-02-01,19,Gandhi Nagar,383,30.31,High
+2025-02-01,20,Trichy Main Road,377,26.85,High
+2025-02-01,21,Thirumayam Road,87,44.19,Low
+2025-02-01,22,Trichy Main Road,177,43.98,Medium
+2025-02-01,23,Alangudi Road,101,61.14,Low
+2025-02-02,0,Aranthangi Road,173,60.2,Medium
+2025-02-02,1,Trichy Main Road,134,42.82,Low
+2025-02-02,2,Gandhi Nagar,57,44.68,Low
+2025-02-02,3,Karaikudi Road,151,66.04,Medium
+2025-02-02,4,Trichy Main Road,135,47.66,Low
+2025-02-02,5,Thirumayam Road,104,69.36,Low
+2025-02-02,6,Thirumayam Road,163,47.32,Medium
+2025-02-02,7,Karaikudi Road,75,66.07,Low
+2025-02-02,8,Karaikudi Road,431,35.37,High
+2025-02-02,9,Aranthangi Road,488,32.01,High
+2025-02-02,10,Trichy Main Road,486,33.18,High
+2025-02-02,11,Karaikudi Road,102,60.01,Low
+2025-02-02,12,Gandhi Nagar,154,43.2,Medium
+2025-02-02,13,Alangudi Road,112,69.32,Low
+2025-02-02,14,Alangudi Road,138,66.12,Low
+2025-02-02,15,Alangudi Road,122,42.71,Low
+2025-02-02,16,Thirumayam Road,117,59.52,Low
+2025-02-02,17,Thirumayam Road,301,26.54,Medium
+2025-02-02,18,Karaikudi Road,301,28.76,Medium
+2025-02-02,19,Gandhi Nagar,281,37.56,Medium
+2025-02-02,20,Gandhi Nagar,478,28.71,High
+2025-02-02,21,Trichy Main Road,124,51.27,Low
+2025-02-02,22,Karaikudi Road,103,59.47,Low
+2025-02-02,23,Trichy Main Road,192,58.91,Medium
+2025-02-03,0,Trichy Main Road,192,60.86,Medium
+2025-02-03,1,Trichy Main Road,109,56.45,Low
+2025-02-03,2,Gandhi Nagar,98,56.37,Low
+2025-02-03,3,Alangudi Road,84,46.82,Low
+2025-02-03,4,Gandhi Nagar,60,58.1,Low
+2025-02-03,5,Karaikudi Road,159,59.28,Medium
+2025-02-03,6,Aranthangi Road,58,51.39,Low
+2025-02-03,7,Aranthangi Road,75,68.54,Low
+2025-02-03,8,Karaikudi Road,316,36.28,Medium
+2025-02-03,9,Gandhi Nagar,352,27.6,High
+2025-02-03,10,Alangudi Road,492,24.92,High
+2025-02-03,11,Gandhi Nagar,64,51.83,Low
+2025-02-03,12,Karaikudi Road,136,64.39,Low
+2025-02-03,13,Aranthangi Road,157,68.67,Medium
+2025-02-03,14,Thirumayam Road,70,45.87,Low
+2025-02-03,15,Gandhi Nagar,129,59.42,Low
+2025-02-03,16,Thirumayam Road,173,68.64,Medium
+2025-02-03,17,Alangudi Road,491,38.54,High
+2025-02-03,18,Alangudi Road,470,23.94,High
+2025-02-03,19,Aranthangi Road,340,27.03,Medium
+2025-02-03,20,Karaikudi Road,489,23.33,High
+2025-02-03,21,Thirumayam Road,166,48.55,Medium
+2025-02-03,22,Alangudi Road,76,67.89,Low
+2025-02-03,23,Karaikudi Road,84,57.43,Low
+2025-02-04,0,Aranthangi Road,155,58.31,Medium
+2025-02-04,1,Karaikudi Road,195,52.0,Medium
+2025-02-04,2,Trichy Main Road,126,52.41,Low
+2025-02-04,3,Trichy Main Road,138,55.67,Low
+2025-02-04,4,Karaikudi Road,56,60.43,Low
+2025-02-04,5,Alangudi Road,123,63.99,Low
+2025-02-04,6,Aranthangi Road,120,48.86,Low
+2025-02-04,7,Alangudi Road,91,67.53,Low
+2025-02-04,8,Alangudi Road,283,29.67,Medium
+2025-02-04,9,Karaikudi Road,462,36.31,High
+2025-02-04,10,Alangudi Road,371,20.87,High
+2025-02-04,11,Trichy Main Road,155,43.37,Medium
+2025-02-04,12,Aranthangi Road,190,58.05,Medium
+2025-02-04,13,Alangudi Road,167,55.46,Medium
+2025-02-04,14,Gandhi Nagar,186,63.81,Medium
+2025-02-04,15,Thirumayam Road,64,58.33,Low
+2025-02-04,16,Aranthangi Road,171,50.82,Medium
+2025-02-04,17,Alangudi Road,369,38.0,High
+2025-02-04,18,Alangudi Road,407,31.13,High
+2025-02-04,19,Aranthangi Road,492,26.04,High
+2025-02-04,20,Karaikudi Road,351,36.45,High
+2025-02-04,21,Karaikudi Road,109,60.14,Low
+2025-02-04,22,Aranthangi Road,138,42.87,Low
+2025-02-04,23,Aranthangi Road,118,45.04,Low
+2025-02-05,0,Alangudi Road,157,65.88,Medium
+2025-02-05,1,Karaikudi Road,168,56.06,Medium
+2025-02-05,2,Gandhi Nagar,199,40.71,Medium
+2025-02-05,3,Trichy Main Road,192,46.91,Medium
+2025-02-05,4,Gandhi Nagar,60,46.96,Low
+2025-02-05,5,Karaikudi Road,127,58.96,Low
+2025-02-05,6,Thirumayam Road,51,48.24,Low
+2025-02-05,7,Gandhi Nagar,56,60.85,Low
+2025-02-05,8,Karaikudi Road,241,28.56,Medium
+2025-02-05,9,Thirumayam Road,366,34.49,High
+2025-02-05,10,Aranthangi Road,479,22.57,High
+2025-02-05,11,Gandhi Nagar,68,58.1,Low
+2025-02-05,12,Thirumayam Road,151,57.35,Medium
+2025-02-05,13,Trichy Main Road,158,42.38,Medium
+2025-02-05,14,Gandhi Nagar,146,57.87,Low
+2025-02-05,15,Alangudi Road,122,49.7,Low
+2025-02-05,16,Karaikudi Road,172,50.31,Medium
+2025-02-05,17,Karaikudi Road,395,28.85,High
+2025-02-05,18,Karaikudi Road,329,33.39,Medium
+2025-02-05,19,Alangudi Road,226,32.8,Medium
+2025-02-05,20,Trichy Main Road,463,37.6,High
+2025-02-05,21,Thirumayam Road,99,60.4,Low
+2025-02-05,22,Trichy Main Road,93,49.73,Low
+2025-02-05,23,Thirumayam Road,52,45.71,Low
+2025-02-06,0,Gandhi Nagar,179,69.82,Medium
+2025-02-06,1,Aranthangi Road,51,50.89,Low
+2025-02-06,2,Thirumayam Road,84,61.92,Low
+2025-02-06,3,Gandhi Nagar,79,50.01,Low
+2025-02-06,4,Thirumayam Road,199,56.87,Medium
+2025-02-06,5,Gandhi Nagar,85,68.85,Low
+2025-02-06,6,Alangudi Road,80,62.65,Low
+2025-02-06,7,Aranthangi Road,104,56.07,Low
+2025-02-06,8,Alangudi Road,357,29.01,High
+2025-02-06,9,Gandhi Nagar,211,26.95,Medium
+2025-02-06,10,Karaikudi Road,335,35.91,Medium
+2025-02-06,11,Thirumayam Road,193,51.48,Medium
+2025-02-06,12,Thirumayam Road,72,51.98,Low
+2025-02-06,13,Thirumayam Road,153,40.6,Medium
+2025-02-06,14,Gandhi Nagar,153,63.06,Medium
+2025-02-06,15,Gandhi Nagar,114,65.26,Low
+2025-02-06,16,Thirumayam Road,198,42.79,Medium
+2025-02-06,17,Alangudi Road,430,37.29,High
+2025-02-06,18,Thirumayam Road,471,30.14,High
+2025-02-06,19,Thirumayam Road,425,21.26,High
+2025-02-06,20,Gandhi Nagar,491,26.06,High
+2025-02-06,21,Thirumayam Road,163,50.25,Medium
+2025-02-06,22,Gandhi Nagar,154,42.63,Medium
+2025-02-06,23,Trichy Main Road,124,64.76,Low
+2025-02-07,0,Karaikudi Road,104,44.85,Low
+2025-02-07,1,Karaikudi Road,199,54.91,Medium
+2025-02-07,2,Trichy Main Road,135,57.0,Low
+2025-02-07,3,Karaikudi Road,61,67.92,Low
+2025-02-07,4,Alangudi Road,91,56.19,Low
+2025-02-07,5,Gandhi Nagar,84,60.23,Low
+2025-02-07,6,Alangudi Road,183,44.24,Medium
+2025-02-07,7,Alangudi Road,56,49.14,Low
+2025-02-07,8,Trichy Main Road,272,26.45,Medium
+2025-02-07,9,Aranthangi Road,362,23.47,High
+2025-02-07,10,Alangudi Road,329,24.47,Medium
+2025-02-07,11,Karaikudi Road,69,57.19,Low
+2025-02-07,12,Aranthangi Road,59,64.67,Low
+2025-02-07,13,Gandhi Nagar,74,54.38,Low
+2025-02-07,14,Thirumayam Road,82,67.68,Low
+2025-02-07,15,Gandhi Nagar,63,44.18,Low
+2025-02-07,16,Aranthangi Road,129,62.94,Low
+2025-02-07,17,Thirumayam Road,224,33.33,Medium
+2025-02-07,18,Aranthangi Road,224,24.65,Medium
+2025-02-07,19,Trichy Main Road,372,30.99,High
+2025-02-07,20,Gandhi Nagar,487,22.44,High
+2025-02-07,21,Alangudi Road,141,49.35,Low
+2025-02-07,22,Karaikudi Road,127,66.28,Low
+2025-02-07,23,Karaikudi Road,109,65.54,Low
+2025-02-08,0,Karaikudi Road,142,40.53,Low
+2025-02-08,1,Alangudi Road,179,59.51,Medium
+2025-02-08,2,Alangudi Road,80,41.84,Low
+2025-02-08,3,Aranthangi Road,59,46.35,Low
+2025-02-08,4,Alangudi Road,175,69.85,Medium
+2025-02-08,5,Gandhi Nagar,105,48.92,Low
+2025-02-08,6,Gandhi Nagar,132,45.12,Low
+2025-02-08,7,Thirumayam Road,198,43.64,Medium
+2025-02-08,8,Karaikudi Road,389,25.31,High
+2025-02-08,9,Thirumayam Road,462,33.84,High
+2025-02-08,10,Karaikudi Road,451,32.36,High
+2025-02-08,11,Alangudi Road,53,69.9,Low
+2025-02-08,12,Gandhi Nagar,66,46.98,Low
+2025-02-08,13,Trichy Main Road,173,49.19,Medium
+2025-02-08,14,Alangudi Road,101,59.67,Low
+2025-02-08,15,Karaikudi Road,112,63.76,Low
+2025-02-08,16,Trichy Main Road,111,59.62,Low
+2025-02-08,17,Alangudi Road,206,30.51,Medium
+2025-02-08,18,Trichy Main Road,213,23.54,Medium
+2025-02-08,19,Thirumayam Road,285,39.28,Medium
+2025-02-08,20,Alangudi Road,382,28.32,High
+2025-02-08,21,Karaikudi Road,198,40.58,Medium
+2025-02-08,22,Trichy Main Road,128,57.46,Low
+2025-02-08,23,Trichy Main Road,107,45.69,Low
+2025-02-09,0,Thirumayam Road,182,46.46,Medium
+2025-02-09,1,Alangudi Road,131,41.94,Low
+2025-02-09,2,Gandhi Nagar,188,53.63,Medium
+2025-02-09,3,Trichy Main Road,101,47.98,Low
+2025-02-09,4,Alangudi Road,166,54.65,Medium
+2025-02-09,5,Aranthangi Road,83,49.74,Low
+2025-02-09,6,Thirumayam Road,131,54.28,Low
+2025-02-09,7,Karaikudi Road,91,63.55,Low
+2025-02-09,8,Aranthangi Road,312,39.11,Medium
+2025-02-09,9,Alangudi Road,216,33.17,Medium
+2025-02-09,10,Trichy Main Road,328,36.18,Medium
+2025-02-09,11,Thirumayam Road,97,47.64,Low
+2025-02-09,12,Aranthangi Road,59,67.91,Low
+2025-02-09,13,Thirumayam Road,70,64.75,Low
+2025-02-09,14,Alangudi Road,83,51.59,Low
+2025-02-09,15,Thirumayam Road,128,66.68,Low
+2025-02-09,16,Aranthangi Road,136,55.55,Low
+2025-02-09,17,Karaikudi Road,268,34.75,Medium
+2025-02-09,18,Trichy Main Road,286,33.6,Medium
+2025-02-09,19,Gandhi Nagar,399,21.7,High
+2025-02-09,20,Thirumayam Road,242,33.18,Medium
+2025-02-09,21,Aranthangi Road,66,68.7,Low
+2025-02-09,22,Gandhi Nagar,70,51.63,Low
+2025-02-09,23,Gandhi Nagar,159,69.75,Medium
+2025-02-10,0,Thirumayam Road,192,68.27,Medium
+2025-02-10,1,Thirumayam Road,77,50.65,Low
+2025-02-10,2,Gandhi Nagar,54,56.49,Low
+2025-02-10,3,Karaikudi Road,145,42.06,Low
+2025-02-10,4,Trichy Main Road,187,40.63,Medium
+2025-02-10,5,Gandhi Nagar,161,69.04,Medium
+2025-02-10,6,Aranthangi Road,185,63.08,Medium
+2025-02-10,7,Aranthangi Road,122,51.46,Low
+2025-02-10,8,Alangudi Road,248,25.11,Medium
+2025-02-10,9,Aranthangi Road,277,21.39,Medium
+2025-02-10,10,Alangudi Road,416,30.61,High
+2025-02-10,11,Alangudi Road,163,49.67,Medium
+2025-02-10,12,Thirumayam Road,189,54.23,Medium
+2025-02-10,13,Aranthangi Road,51,58.06,Low
+2025-02-10,14,Alangudi Road,144,55.62,Low
+2025-02-10,15,Trichy Main Road,81,59.69,Low
+2025-02-10,16,Trichy Main Road,60,41.31,Low
+2025-02-10,17,Alangudi Road,472,38.56,High
+2025-02-10,18,Aranthangi Road,382,21.9,High
+2025-02-10,19,Alangudi Road,323,27.77,Medium
+2025-02-10,20,Thirumayam Road,313,38.86,Medium
+2025-02-10,21,Trichy Main Road,81,54.88,Low
+2025-02-10,22,Gandhi Nagar,162,59.37,Medium
+2025-02-10,23,Karaikudi Road,171,64.48,Medium
+2025-02-11,0,Gandhi Nagar,168,66.38,Medium
+2025-02-11,1,Gandhi Nagar,61,67.57,Low
+2025-02-11,2,Karaikudi Road,67,59.08,Low
+2025-02-11,3,Alangudi Road,198,69.35,Medium
+2025-02-11,4,Thirumayam Road,95,61.85,Low
+2025-02-11,5,Thirumayam Road,184,45.42,Medium
+2025-02-11,6,Karaikudi Road,135,62.6,Low
+2025-02-11,7,Thirumayam Road,138,68.12,Low
+2025-02-11,8,Trichy Main Road,484,34.56,High
+2025-02-11,9,Gandhi Nagar,457,22.63,High
+2025-02-11,10,Aranthangi Road,482,39.3,High
+2025-02-11,11,Aranthangi Road,137,50.27,Low
+2025-02-11,12,Gandhi Nagar,71,56.27,Low
+2025-02-11,13,Alangudi Road,146,55.25,Low
+2025-02-11,14,Aranthangi Road,167,56.95,Medium
+2025-02-11,15,Gandhi Nagar,79,66.2,Low
